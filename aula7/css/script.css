@@ -1,0 +1,34 @@
+body {
+  background: linear-gradient(195deg,rgb(139, 212, 241),rgb(247, 247, 178));
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #0d1b97;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.job-title {
+    background-color: #0d1b97;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  font-weight: bold;
+  
+}
+
+#high {
+  color: rgb(13, 27, 151);
+}
+
+ul {
+  background-color: #333333;
+  color: rgb(223, 215, 185);
+  padding: 10px;
+  background: linear-gradient(195deg, rgb(63, 61, 61), black);
+}
