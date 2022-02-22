@@ -1,11 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+main{
+  padding: 30px;
+
+  box-shadow: 0 0 0.9em rgb(3, 83, 129);}
+  
+
+
 body {
-  background: linear-gradient(195deg,rgb(139, 212, 241),rgb(247, 247, 178));
-  font-family: Arial, Helvetica, sans-serif;
-}
+  background: linear-gradient(#aadbf1, #FFFFFF) no-repeat;
+      font-family: 'Questrial', sans-serif;}
 
 h1 {
-  color: #0d1b97;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: 'Handlee', cursive;  color: #0d1b97;
+ 
   font-size: 40px;
 }
 
@@ -14,11 +24,16 @@ h2 {
 }
 
 .job-title {
-    background-color: #0d1b97;
-  color: #ffffff;
+  
+
+  background-color: #333333;
+  
+  color: rgb(250, 250, 250);
+  position: relative;;
   font-size: 20px;
-  padding: 5px 10px 5px 10px;
-  font-weight: bold;
+  padding: 5px;
+  background: linear-gradient(195deg, rgb(27, 117, 219), black);
+  font-family: 'Questrial', sans-serif;}
   
 }
 
@@ -28,7 +43,8 @@ h2 {
 
 ul {
   background-color: #333333;
-  color: rgb(223, 215, 185);
-  padding: 10px;
-  background: linear-gradient(195deg, rgb(63, 61, 61), black);
+  color: rgb(250, 250, 250);
+  position: relative;;
+  padding: 30px;
+  background: linear-gradient(195deg, rgb(27, 117, 219), black);
 }
