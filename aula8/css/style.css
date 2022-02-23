@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+body {
+  background-color: #131313;
+}
+
+h1 {
+  color: white;
+  font-family: roboto;
+}
+h2{
+    color: steelblue;
+}
+
+p{
+    color: #bdbdbd ;
+    font-family: roboto;
+}
+
+a{
+    color: gold;
+    font-family: roboto;
+
+}
+
+a:hover{
+    cursor: pointer;
+    color: bisque;
+    
+}
+.media-picture {
+  height: 185px;
+  background-image: url(/aula8/img/banner.jpeg);
+  background-repeat: no-repeat;
+}
+.review-score {
+  background-color: gold;
+  padding: 12px;
+  color: white;
+  border-radius: 18px;
+  font-size: 20px;
+
+  font-family: roboto;
+}
